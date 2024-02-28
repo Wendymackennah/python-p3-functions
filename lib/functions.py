@@ -12,6 +12,7 @@ def greet(name):
 
 
 def greet_with_default(name="programmer"):
+    print(f"Hello, {name}!")
 
 
 
